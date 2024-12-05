@@ -1,0 +1,502 @@
+[
+    {
+        "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "symbol": "BRETT",
+        "name": "BRETT"
+    },
+    {
+        "address": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+        "symbol": "MOG",
+        "name": "Mog Coin"
+    },
+    {
+        "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+        "symbol": "SPX",
+        "name": "SPX6900"
+    },
+    {
+        "address": "0xb166e8b140d35d9d8226e40c09f757bac5a4d87d",
+        "symbol": "NPC",
+        "name": "Non-Playable Coin"
+    },
+    {
+        "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+        "symbol": "DEGEN",
+        "name": "DEGEN"
+    },
+    {
+        "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
+        "symbol": "TOSHI",
+        "name": "TOSHI"
+    },
+    {
+        "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+        "symbol": "MIGGLES",
+        "name": "Mister Miggles"
+    },
+    {
+        "address": "0xdfbea88c4842d30c26669602888d746d30f9d60d",
+        "symbol": "CAW",
+        "name": "crow with knife"
+    },
+    {
+        "address": "0xbc45647ea894030a4e9801ec03479739fa2485f0",
+        "symbol": "BENJI",
+        "name": "Basenji"
+    },
+    {
+        "address": "0x051fb509e4a775fabd257611eea1efaed8f91359",
+        "symbol": "CATE",
+        "name": "CateCoin"
+    },
+    {
+        "address": "0x47b464edb8dc9bc67b5cd4c9310bb87b773845bd",
+        "symbol": "NORMIE",
+        "name": "Normie"
+    },
+    {
+        "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
+        "symbol": "MOCHI",
+        "name": "MOCHI"
+    },
+    {
+        "address": "0xF31e6D62BFC485857af2186eB3d8ee94b4379feD",
+        "symbol": "CHIDO",
+        "name": "Chinese Doge Wow"
+    },
+    {
+        "address": "0x48164eA5Df090E80a0eAeE1147e466Ea28669221",
+        "symbol": "MOB",
+        "name": "Marvin"
+    },
+    {
+        "address": "0x48164eA5Df090E80a0eAeE1147e466Ea28669221",
+        "symbol": "MOB",
+        "name": "Marvin"
+    },
+    {
+        "address": "0x45dfc7a2810ae95e839baa6583da0ede01af020f",
+        "symbol": "MAME",
+        "name": "MAMESHIBA"
+    },
+    {
+        "address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+        "symbol": "AIXBT",
+        "name": "aixbt by Virtuals"
+    },
+    {
+        "address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
+        "symbol": "KEYCAT",
+        "name": "Keyboard Cat"
+    },
+    {
+        "address": "0x52b492a33E447Cdb854c7FC19F1e57E8BfA1777D",
+        "symbol": "PEPE",
+        "name": "Based Pepe"
+    },
+    {
+        "address": "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb",
+        "symbol": "CLANKER",
+        "name": "CLANKER"
+    },
+    {
+        "address": "0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d",
+        "symbol": "AEROBUD",
+        "name": "AEROBUD"
+    },
+    {
+        "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
+        "symbol": "TYBG",
+        "name": "Base God"
+    },
+    {
+        "address": "0x23a96680ccde03bd4bdd9a3e9a0cb56a5d27f7c9",
+        "symbol": "HENLO",
+        "name": "henlo"
+    },
+    {
+        "address": "0xdfd579dD6AeB232E95A15D964a135A61925b5C93",
+        "symbol": "MARSO",
+        "name": "Marso.Tech"
+    },
+    {
+        "address": "0x0fD7a301B51d0A83FCAf6718628174D527B373b6",
+        "symbol": "LUM",
+        "name": "Luminous"
+    },
+    {
+        "address": "0x8a638ea79f71f3b91bdc96bbdf9fb27c93013d60",
+        "symbol": "BBT",
+        "name": "Baby Tiger"
+    },
+    {
+        "address": "0xfd1013c72cbb0ffb920d347c5836bf88965d0d5e",
+        "symbol": "STIX",
+        "name": "STIX Token"
+    },
+    {
+        "address": "0xF0268c5F9aA95Baf5C25D646AAbB900Ac12F0800",
+        "symbol": "RGOAT",
+        "name": "RealGOAT"
+    },
+    {
+        "address": "0x8853f0c059c27527d33d02378e5e4f6d5afb574a",
+        "symbol": "AIINU",
+        "name": "AI INU"
+    },
+    {
+        "address": "0xcdE172dc5ffC46D228838446c57C1227e0B82049",
+        "symbol": "BOOMER",
+        "name": "Boomer"
+    },
+    {
+        "address": "0x0f884a04d15A3cf4Aecda7de0288C3a611326839",
+        "symbol": "CJ",
+        "name": "Carl Johnson"
+    },
+    {
+        "address": "0x4dd9077269dd08899f2a9e73507125962b5bc87f",
+        "symbol": "CRASH",
+        "name": "Crash"
+    },
+    {
+        "address": "0x15ac90165f8b45a80534228bdcb124a011f62fee",
+        "symbol": "MOEW",
+        "name": "donotfomoew"
+    },
+    {
+        "address": "0x6d3b8c76c5396642960243febf736c6be8b60562",
+        "symbol": "SKOP",
+        "name": "SKOP Token"
+    },
+    {
+        "address": "0x814fe70e85025bec87d4ad3f3b713bdcaac0579b",
+        "symbol": "BARIO",
+        "name": "Based Mario"
+    },
+    {
+        "address": "0xe1abd004250ac8d1f199421d647e01d094faa180",
+        "symbol": "ROOST",
+        "name": "Roost Coin"
+    },
+    {
+        "address": "0x3c281a39944a2319aa653d81cfd93ca10983d234",
+        "symbol": "BUILD",
+        "name": "BUILD"
+    },
+    {
+        "address": "0x13741c5df9ab03e7aa9fb3bf1f714551dd5a5f8a",
+        "symbol": "NOGS",
+        "name": "Noggles"
+    },
+    {
+        "address": "0x698dc45e4f10966f6d1d98e3bfd7071d8144c233",
+        "symbol": "PEPE",
+        "name": "Pepe"
+    },
+    {
+        "address": "0x2075f6E2147d4AC26036C9B4084f8E28b324397d",
+        "symbol": "CTO",
+        "name": "BaseCTO"
+    },
+    {
+        "address": "0x9DE16c805A3227b9b92e39a446F9d56cf59fe640",
+        "symbol": "BENTO",
+        "name": "Bento"
+    },
+    {
+        "address": "0x85e90a5430af45776548adb82ee4cd9e33b08077",
+        "symbol": "DINO",
+        "name": "DINO"
+    },
+    {
+        "address": "0x6f2ae52600709af68e47fe32133b8bdedbc4cb56",
+        "symbol": "BTROMP",
+        "name": "BOOK OF TROMP"
+    },
+    {
+        "address": "0xF5E89006CBeFf2dabCfda0Def5Bf45Ebe7f8429f",
+        "symbol": "RAGDOLL",
+        "name": "Ragdoll"
+    },
+    {
+        "address": "0x928a6a9fc62b2c94baf2992a6fba4715f5bb0066",
+        "symbol": "RWA",
+        "name": "Rug World Assets"
+    },
+    {
+        "address": "0x88faea256f789f8dd50de54f9c807eef24f71b16",
+        "symbol": "WOLF",
+        "name": "Landwolf (Base)"
+    },
+    {
+        "address": "0x55027a5b06f4340cc4c82dcc74c90ca93dcb173e",
+        "symbol": "TAD",
+        "name": "Tadpole"
+    },
+    {
+        "address": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
+        "symbol": "SKI",
+        "name": "Ski Mask Dog"
+    },
+    {
+        "address": "0x6965084966592A76f80AdAdc5138eb23F18f1ed6",
+        "symbol": "THUG",
+        "name": "THUG"
+    },
+    {
+        "address": "0x42069dE48741Db40aeF864F8764432bBccbD0B69",
+        "symbol": "BETS",
+        "name": "All Street Bets"
+    },
+    {
+        "address": "0x32E0f9d26D1e33625742A52620cC76C1130efde6",
+        "symbol": "BASED",
+        "name": "BASED"
+    },
+    {
+        "address": "0x461eE40928677644b8195662Ab91BcdaAE6Ef105",
+        "symbol": "DOOK",
+        "name": "Shoobadookie"
+    },
+    {
+        "address": "0x3636a7734b669ce352e97780df361ce1f809c58c",
+        "symbol": "ROCKY",
+        "name": "ROCKY"
+    },
+    {
+        "address": "0x87c211144b1D9bDAA5A791B8099EA4123dC31D21",
+        "symbol": "BCP",
+        "name": "BlockChainPeople"
+    },
+    {
+        "address": "0xd327d36eb6e1f250d191cd62497d08b4aaa843ce",
+        "symbol": "FOMO",
+        "name": "Father Of Meme: Origin"
+    },
+    {
+        "address": "0x589C8E8fE013133B41ABf546C819787a75688690",
+        "symbol": "SQUOGE",
+        "name": "DogeSquatch"
+    },
+    {
+        "address": "0x41a22eb30df65d6ab0ce0b4cfe8f4e0eb306d471",
+        "symbol": "BBQ",
+        "name": "BBQ"
+    },
+    {
+        "address": "0x9F235D23354857EfE6c541dB92a9eF1877689BCB",
+        "symbol": "GOODLE",
+        "name": "Goodle"
+    },
+    {
+        "address": "0xF53BB16B1eDdE5bc75fA586309265fd58f308C00",
+        "symbol": "HOMS",
+        "name": "Heroes of memes"
+    },
+    {
+        "address": "0x41eD891897117450adBd710006855B12F98cb86b",
+        "symbol": "LAZYCAT",
+        "name": "LazyCat"
+    },
+    {
+        "address": "0xfc18d19d9bc13d9c8981222301ea644868ecf146",
+        "symbol": "USÐ",
+        "name": "United States Doge"
+    },
+    {
+        "address": "0xd121C124bf2FbE48980E3a10c76CAb2eF93f23F8",
+        "symbol": "DABCAT",
+        "name": "Dabcat"
+    },
+    {
+        "address": "0xa067436db77ab18b1a315095e4b816791609897c",
+        "symbol": "WASSIE",
+        "name": "WASSIE"
+    },
+    {
+        "address": "0xd1db4851bcf5b41442caa32025ce0afe6b8eabc2",
+        "symbol": "ZOOMER",
+        "name": "ZOOMER"
+    },
+    {
+        "address": "0xD97520Cc7596cdd23c7680711cB550C343E15696",
+        "symbol": "BONKFA",
+        "name": "Bonk of America"
+    },
+    {
+        "address": "0x09f29e2acdb76a831668b03ce2e3ad7bb41aaa5c",
+        "symbol": "BAPE",
+        "name": "BaseApe"
+    },
+    {
+        "address": "0x8a5F9a6b653ecbDb406f9EB5F0C8dDba10919Aec",
+        "symbol": "BLOO",
+        "name": "bloo foster coin"
+    },
+    {
+        "address": "0xc2fe011c3885277c7f0e7ffd45ff90cadc8ecd12",
+        "symbol": "PONCHO",
+        "name": "Poncho"
+    },
+    {
+        "address": "0x4e496c0256fb9d4cc7ba2fdf931bc9cbb7731660",
+        "symbol": "BOGE",
+        "name": "Boge"
+    },
+    {
+        "address": "0x4e496c0256fb9d4cc7ba2fdf931bc9cbb7731660",
+        "symbol": "BOGE",
+        "name": "Boge"
+    },
+    {
+        "address": "0xd9ea93a38d1771c870128f9134d4622d331c04c8",
+        "symbol": "MABA",
+        "name": "Make America Based Again"
+    },
+    {
+        "address": "0xfe20c1b85aba875ea8cecac8200bf86971968f3a",
+        "symbol": "BALD",
+        "name": "BALD"
+    },
+    {
+        "address": "0xf1b4ddf712e108cf43711b1c39f2fddb0d5ce243",
+        "symbol": "BASE",
+        "name": "BrianArmstrongCoinbaseUSDC2012Normie"
+    },
+    {
+        "address": "0xecaf81eb42cd30014eb44130b89bcd6d4ad98b92",
+        "symbol": "CHAD",
+        "name": "Based Chad"
+    },
+    {
+        "address": "0xcde90558fc317c69580deeaf3efc509428df9080",
+        "symbol": "NORMILIO",
+        "name": "Normilio"
+    },
+    {
+        "address": "0xaa6cccdce193698d33deb9ffd4be74eaa74c4898",
+        "symbol": "ELONRWA",
+        "name": "ElonRWA"
+    },
+    {
+        "address": "0x94f197b830fe96d637166f10ea7a80cf6fc17adb",
+        "symbol": "JOGECO",
+        "name": "Jogeco"
+    },
+    {
+        "address": "0x686b1209b2de12818aa69dd139530448d0c792b3",
+        "symbol": "$POOP",
+        "name": "poopcoin"
+    },
+    {
+        "address": "0x45096bd2871911ee82a3084d77a01efa3c9c6733",
+        "symbol": "BUB",
+        "name": "BUBCAT"
+    },
+    {
+        "address": "0x7a8a5012022bccbf3ea4b03cd2bb5583d915fb1a",
+        "symbol": "CHUCK",
+        "name": "Chuck"
+    },
+    {
+        "address": "0xd7d919ea0c33a97ad6e7bd4f510498e2ec98cb78",
+        "symbol": "PEN",
+        "name": "Penjamin Blinkerton"
+    },
+    {
+        "address": "0x6e93dede32b00fc0b993cee3be8727089fdd013b",
+        "symbol": "POON",
+        "name": "Poon"
+    },
+    {
+        "address": "0x9A86980D3625b4A6E69D8a4606D51cbc019e2002",
+        "symbol": "FOMO",
+        "name": "FomoBullClub"
+    },
+    {
+        "address": "0x8319767a7b602f88e376368dca1b92d38869b9b4",
+        "symbol": "PEACH",
+        "name": "Based Peaches"
+    },
+    {
+        "address": "0x188eae4ca9319220d58e4a719fcca16a655753c4",
+        "symbol": "TRUMP",
+        "name": "TRUMP"
+    },
+    {
+        "address": "0xb8e0b7d0df89673e4f6f82a66ef642a1cd46e010",
+        "symbol": "$REFLECT",
+        "name": "$REFLECT"
+    },
+    {
+        "address": "0x0028e1e60167b48a938b785aa5292917e7eaca8b",
+        "symbol": "COINYE",
+        "name": "Coinye West"
+    },
+    {
+        "address": "0xebff2db643cf955247339c8c6bcd8406308ca437",
+        "symbol": "CHOMP",
+        "name": "ChompCoin"
+    },
+    {
+        "address": "0x249247ddf61afc83f2fd0968d4e7b0424598eeab",
+        "symbol": "$LADY",
+        "name": "Ladybot"
+    },
+    {
+        "address": "0xb9898511bd2bad8bfc23eba641ef97a08f27e730",
+        "symbol": "BONKE",
+        "name": "BONKE"
+    },
+    {
+        "address": "0x7d9ce55d54ff3feddb611fc63ff63ec01f26d15f",
+        "symbol": "FUNGI",
+        "name": "Fungi"
+    },
+    {
+        "address": "0x3B1228C3eDe7e0898d57054Cd9B8f812d24315C1",
+        "symbol": "BRITT",
+        "name": "Britt"
+    },
+    {
+        "address": "0xdb6e0e5094a25a052ab6845a9f1e486b9a9b3dde",
+        "symbol": "OKAYEG",
+        "name": "Okayeg"
+    },
+    {
+        "address": "0x988a17d9ef5683dc125de54ae4cd217c4c26454f",
+        "symbol": "APED",
+        "name": "Apedinbase"
+    },
+    {
+        "address": "0x6bd81aad9b25ad1e0b99c47ed01b34eacf4b8be7",
+        "symbol": "BODA",
+        "name": "Based Yoda"
+    },
+    {
+        "address": "0x3afeae00a594fbf2e4049f924e3c6ac93296b6e8",
+        "symbol": "MAMBA",
+        "name": "Mamba"
+    },
+    {
+        "address": "0x7cf7132ede0ca592a236b6198a681bb7b42dd5ae",
+        "symbol": "BOLT",
+        "name": "BOLT"
+    },
+    {
+        "address": "0x4d58608EFf50b691A3B76189aF2a7A123dF1e9ba",
+        "symbol": "BOYS",
+        "name": "Boysclub"
+    },
+    {
+        "address": "0xF8a99F2bF2ce5bb6cE4aafcf070D8723bc904Aa2",
+        "symbol": "CHRETT",
+        "name": "Chinese BRETT"
+    },
+    {
+        "address": "0x642e993fa91ffe9fb24d39a8eb0e0663145f8e92",
+        "symbol": "RABBIT",
+        "name": "BASED RABBIT"
+    }
+]
